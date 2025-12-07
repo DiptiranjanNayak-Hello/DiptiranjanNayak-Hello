@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hey there! 👋  
 I'm **Albert**, a student learning **Machine Learning**, **Cybersecurity**, and AI-based tooling.  
 I’m currently exploring these areas in a step—by—step approach: building small projects, experimenting, breaking things, fixing them, and learning through practice rather than theory alone.
