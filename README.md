@@ -1,38 +1,17 @@
 ## Hey there! 👋  
-I'm **Albert**, a student learning **Machine Learning**, **Cybersecurity**, and AI-based tooling.  
-I’m currently exploring these areas in a step—by—step approach: building small projects, experimenting, breaking things, fixing them, and learning through practice rather than theory alone.
 
----
+I'm **Diptiranjan**, learning **Machine Learning**, **Cybersecurity**, and **AI-based tooling**.  
+Right now, I'm studying ML, building small models, and experimenting with Kali Linux in a VirtualBox setup.
 
-### 🔧 Current Stack
-- Java  
-- HTML, CSS, JavaScript  
-- React (learning)  
-- Python (for ML + security)
+I mainly use **Python** and **Java**, and I'm exploring how AI can automate tasks and turn ideas into tools ⚡.  
+I like challenging myself, experimenting freely, and learning as I build.
 
----
+My goal is to create practical, real-world AI systems someday 🚀.  
 
-### 📌 What I'm Working On
-- Studying **ML fundamentals** and building basic ML projects  
-- Exploring **Cybersecurity**, running a VirtualBox Kali Linux home lab  
-- Experimenting with **AI-assisted workflows & automation**
+📫 Reach me:  
+LinkedIn — https://www.linkedin.com/in/nayak-diptiranjan  
+Email — drnayak2611@gmail.com@gmail.com
 
----
-
-### 🔍 Interests
-- Machine Learning & model experimentation  
-- Cybersecurity & OSINT  
-- AI tools, automation & prompt-driven systems
-
----
-
-### 🎯 Fun Facts
-- I enjoy learning by breaking & fixing things  
-- Debugging struggles make success feel earned  
-- I play badminton regularly — it keeps me active and refreshed  
-- Still figuring out my direction, and enjoying the process along the way
-
----
 
 <!--
 **DiptiranjanNayak-Hello/DiptiranjanNayak-Hello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
