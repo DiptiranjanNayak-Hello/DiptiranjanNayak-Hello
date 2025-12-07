@@ -10,7 +10,7 @@ My goal is to create practical, real-world AI systems someday 🚀.
 
 📫 Reach me:  
 LinkedIn — https://www.linkedin.com/in/nayak-diptiranjan  
-Email — drnayak2611@gmail.com@gmail.com
+Email — drnayak2611@gmail.com
 
 
 <!--
